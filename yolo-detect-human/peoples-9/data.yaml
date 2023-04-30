@@ -1,0 +1,7 @@
+test: C:\Users\nazar\Desktop\vsCode\yolo-detect-human\peoples-9\test
+train: C:\Users\nazar\Desktop\vsCode\yolo-detect-human\peoples-9\train
+val: C:\Users\nazar\Desktop\vsCode\yolo-detect-human\peoples-9\valid
+
+nc: 1
+
+names: ["people"]
